@@ -1,4 +1,6 @@
-**Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors). I already added tests and I plan to add more feature in the future.**
+**Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors).**
+
+Supports Laravel 6,7,8,9 🚀
 
 To install package use:
 ```
