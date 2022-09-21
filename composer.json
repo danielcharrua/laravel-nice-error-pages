@@ -1,25 +1,31 @@
 {
-    "name": "laravelcollective/errors",
+    "name": "danielcharrua/laravel-nice-error-pages",
     "description": "Error pages for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
+    "homepage": "https://charrua.es",
     "support": {
-        "issues": "https://github.com/LaravelCollective/errors/issues",
-        "source": "https://github.com/LaravelCollective/errors"
+        "issues": "https://github.com/danielcharrua/laravel-nice-error-pages/issues",
+        "source": "https://github.com/danielcharrua/laravel-nice-error-pages"
     },
     "authors": [
         {
             "name": "Matt Lantz",
-            "email": "matt@laravelcollective.com"
+            "email": "matt@laravelcollective.com",
+            "homepage": "https://laravelcollective.com"
+        },
+        {
+            "name": "Daniel Pereyra",
+            "email": "hola@charrua.es",
+            "homepage": "https://charrua.es"
         }
     ],
     "require": {
         "php": ">=7.1.3",
-        "laravel/framework": "^6.0|^7.0"
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0"
     },
     "autoload": {
         "psr-4": {
-            "Collective\\Errors\\": "src/"
+            "Charrua\\Errors\\": "src/"
         }
     },
     "extra": {
@@ -28,7 +34,7 @@
         },
         "laravel": {
             "providers": [
-                "Collective\\Errors\\ErrorsServiceProvider"
+                "Charrua\\Errors\\ErrorsServiceProvider"
             ]
         }
     },

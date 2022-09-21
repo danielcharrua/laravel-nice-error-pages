@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Errors;
+namespace Charrua\Errors;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -14,8 +14,8 @@ class ErrorsServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/publish/errors' => resource_path('views/errors'),
-            __DIR__.'/publish/svg' => public_path('svg'),
-        ], 'laravel-collective-errors');
+            __DIR__ . '/publish/errors' => resource_path('views/errors'),
+            __DIR__ . '/publish/svg' => public_path('svg'),
+        ], 'laravel-nice-error-pages');
     }
 }
