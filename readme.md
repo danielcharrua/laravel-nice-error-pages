@@ -1,4 +1,4 @@
-**Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors).**
+<p align="center"><img src="/art/socialcard.png" alt="Social Card of Laravel Nice Error Pages"></p>
 
 Supports Laravel 6,7,8,9 🚀
 
@@ -13,3 +13,5 @@ php artisan vendor:publish --provider="Charrua\Errors\ErrorsServiceProvider"
 ```
 
 Enjoy!
+
+*Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors). Originally created by Matt Lantz.*
