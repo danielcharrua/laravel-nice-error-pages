@@ -14,4 +14,4 @@ php artisan vendor:publish --provider="Charrua\Errors\ErrorsServiceProvider"
 
 Enjoy!
 
-*Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors). Originally created by Matt Lantz.*
+*Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors). Originally created by [Matt Lantz](https://twitter.com/Mattylantz). Illustrations by [Steve Schoger](https://twitter.com/steveschoger).*
