@@ -19,3 +19,8 @@ This will create a folder in `public/svg` with the illustrations and another fol
 Enjoy 🤗
 
 *Note: This package is a fork of [laravelcollective/errors](https://github.com/LaravelCollective/errors). Originally created by [Matt Lantz](https://twitter.com/Mattylantz).*
+
+## Send some love
+
+If you find this package usefull consider sending some sats using the Lightning Network ⚡️
+<p align="center"><img width="180" src="/art/qr-lnurl.svg" alt="qr-lnurl"></p>
