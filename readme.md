@@ -22,5 +22,4 @@ Enjoy 🤗
 
 ## Send some love
 
-If you find this package usefull consider sending some sats using the Lightning Network ⚡️
-<p align="center"><img width="180" src="/art/qr-lnurl.svg" alt="qr-lnurl"></p>
+To keep working and maintainig this free package [please consider buying me a coffee](https://charrua.es/donaciones). Thank you ✌️
